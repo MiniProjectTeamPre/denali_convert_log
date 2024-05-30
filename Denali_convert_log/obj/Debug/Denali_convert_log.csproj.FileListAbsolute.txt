@@ -1,0 +1,18 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.pdb
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.exe.config
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.exe
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.pdb
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.exe
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\bin\Debug\Denali_convert_log.pdb
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.Form1.resources
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.Properties.Resources.resources
+D:\Projects C#\mini_projeck_template\denali_convert_log\Denali_convert_log\obj\Debug\Denali_convert_log.csproj.GenerateResource.Cache
